@@ -47,7 +47,7 @@ The dataset used in this project contains information related to restaurant oper
 
 3. **Upload the Notebook:**
 
-   Upload the Jupyter notebook file (`restaurant_ml_project.ipynb`) to Google Colab.
+   Upload the Jupyter notebook file (`Restaurant_SENTIMENT ANALYSIS.ipynb`) to Google Colab.
 
 4. **Install Required Libraries:**
 
